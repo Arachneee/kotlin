@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        /**
         button2.setOnClickListener(object : View.OnClickListener {
         }
 
@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
         //2. 하나의 메소드만 있어야한다.
         button2.setOnClickListener{
 
-        }
+        }**/
     }
 }
